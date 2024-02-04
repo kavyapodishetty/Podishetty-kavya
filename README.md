@@ -19,13 +19,14 @@ Operations on Datasets:
 4. Understanding data is very important so performed well suited " Visualizations " on data which includes graphs , charts etc finally data need to be analyzed in
    this process.
 
-5 .Took all classification datasets that suits to build the model called " Decision Tree " for classification 
+5. Took all classification datasets that suits to build the model called " Decision Tree " for classification 
 
-6. Decision Tree is an Machine Learning algorithm and it can be used for both classification & Regression problems of "Supervised Learning".
+6. Decision Tree is an Machine Learning algorithm and it can be used for both classification & Regression problems of "Supervised Learning" but it is well suited
+   for classification.
 
-7. model is built and checked its accuracy .
+8. model is built and checked its accuracy .
 
-8. Performed Boosting and Tuning techniques on the model to improve accuracy of the model.
+9. Performed Boosting and Tuning techniques on the model to improve accuracy of the model.
 
 
 Technologies and Libraries :
