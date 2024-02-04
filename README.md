@@ -36,6 +36,8 @@ Technologies and Libraries :
 * Numpy
 * Pandas
 * Seaborn
+* sklearn
+  
   
 
 
